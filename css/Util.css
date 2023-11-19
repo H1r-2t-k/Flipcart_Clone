@@ -1,0 +1,27 @@
+.flex-all-center{
+    /* text-align: center; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.btn{
+    padding: 5px 10px;
+  color: white;
+  background: var( --main-bg-color);
+  border: 2px solid white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+/* when we need to a short of margin then we can use my- 1 which comes from BootStrap*/
+.my-2{
+    margin: 26px 0;
+}
+.my-2{
+    margin: 5px 0;
+}
+
+
+.text-center{
+    text-align: center;
+}
